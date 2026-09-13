@@ -1,57 +1,54 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+# Aditya Tayal
 
-<h3 align="center">
-Software Engineering • AI/ML • Data Engineering
-</h3>
+Final-year B.Tech student in Electronics and Communication Engineering at Thapar Institute of Engineering & Technology with a strong interest in Software Engineering, Artificial Intelligence, Machine Learning, and Data Engineering.
 
-<p align="center">
-Final-Year B.Tech (Electronics & Communication) Student at
-Thapar Institute of Engineering & Technology
-</p>
+I enjoy building scalable backend systems, AI-powered applications, and data-driven products that solve real-world problems. My experience spans full-stack development, backend engineering, data analytics, and modern AI technologies including Large Language Models and Retrieval-Augmented Generation systems.
+
+Currently, I am focused on developing production-oriented software solutions while actively exploring distributed systems, cloud technologies, and advanced machine learning applications.
 
 ---
 
-## 🚀 About Me
+## Current Projects
 
-I'm passionate about building software that solves real-world problems using modern backend systems, data engineering pipelines, and AI-powered applications.
+### AI Poultry Management System
 
-My experience spans:
+Developing an AI-powered poultry farm management platform designed to streamline farm operations through inventory management, analytics, operational monitoring, and intelligent decision support.
 
-- Full-Stack Development
-- Backend Engineering
-- Artificial Intelligence & Machine Learning
-- Data Analytics & Data Engineering
-- Large Language Model (LLM) Applications
+**Tech Stack:** React, TypeScript, FastAPI, MongoDB, AWS
 
-I enjoy taking projects from idea → architecture → deployment and have worked extensively with FastAPI, React, PostgreSQL, MongoDB, AWS, and modern AI frameworks.
+### NextRound – AI Mock Interview Platform
 
-Currently exploring:
-- Scalable backend systems
-- RAG applications
-- Data pipelines and analytics
-- AI-powered business automation
+Building an AI-powered interview preparation platform that simulates technical interviews, evaluates candidate responses, and provides personalized feedback using Large Language Models.
+
+**Tech Stack:** React, FastAPI, PostgreSQL, LLMs
+
+### Data Analytics & Automation Projects
+
+Working on analytics and automation solutions that transform operational business data into actionable insights through dashboards, reporting systems, and automated workflows.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 
@@ -59,69 +56,43 @@ Currently exploring:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
+### AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
 
 ### Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🌟 Featured Projects
+## GitHub Stats
 
-### 🐔 AI Poultry Management System
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1026-05&show_icons=true)
 
-AI-powered farm management platform featuring:
-
-- Inventory tracking
-- Feed monitoring
-- Analytics dashboards
-- Operational management
-- FastAPI + React architecture
-
-### 🎤 AI Mock Interview Platform
-
-An LLM-powered interview preparation platform providing:
-
-- Real-time interview simulation
-- Automated evaluation
-- Personalized feedback
-- Performance analytics
-
-### 📊 Data Analytics & Engineering Projects
-
-Building data pipelines and analytics systems that transform raw business data into actionable insights.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1026-05&layout=compact)
 
 ---
 
-## 📈 GitHub Stats
+## Education
 
-![](https://github-readme-stats.vercel.app/api?username=Aditya1026-05&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1026-05&layout=compact)
-
----
-
-## 🎯 2026 Goals
-
-- Strengthen system design fundamentals
-- Contribute to impactful open-source projects
-- Build production-grade AI applications
-- Deepen expertise in backend engineering and data systems
+**Thapar Institute of Engineering & Technology**  
+Bachelor of Technology (B.Tech)  
+Electronics and Communication Engineering
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-- Portfolio: YOUR_PORTFOLIO_URL
+**Email:** adityatayal2610@gmail.com
 
----
-⭐ Always interested in collaborating on impactful software, AI, and data-driven projects.
+**LinkedIn:** https://www.linkedin.com/in/aditya0898/
+
+**Portfolio:** Coming Soon
