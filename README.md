@@ -73,14 +73,6 @@ Working on analytics and automation solutions that transform operational busines
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1026-05&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1026-05&layout=compact)
-
----
-
 ## Education
 
 **Thapar Institute of Engineering & Technology**  
@@ -94,5 +86,3 @@ Electronics and Communication Engineering
 **Email:** adityatayal2610@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/aditya0898/
-
-**Portfolio:** Coming Soon
